@@ -10,12 +10,12 @@ materials for course "Deep Learning for Computer Vision"
   - Lecture
     -  Slides [UPDATE LINK]
   - Practice
-    - [intro to pytorch](https://colab.research.google.com/github/lyubonko/ucu2020cv/blob/master/assignments/a1_pytorch.ipynb)
-    - [simple nets](https://colab.research.google.com/github/lyubonko/ucu2020cv/blob/master/assignments/a2_simple_network.ipynb)     
+    - [intro to pytorch](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a1_pytorch.ipynb)
+    - [simple nets](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a2_simple_network.ipynb)     
     
 2.  **CNNs in depth**
 
   - Lecture
     -  Slides [UPDATE LINK]
   - Practice  
-    - [classification](https://colab.research.google.com/github/lyubonko/ucu2020cv/blob/master/assignments/a3_cifar10.ipynb)
+    - [classification](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a3_cifar10.ipynb)
