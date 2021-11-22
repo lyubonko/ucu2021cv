@@ -8,7 +8,7 @@ materials for course "Deep Learning for Computer Vision"
 1.  **Intro to Convolution Neural Networks**
 
   - Lecture
-    - [slides](https://github.com/lyubonko/ucu2021cv/raw/master/lectures/lecture1_intro.pdf)
+    - [slides](https://github.com/lyubonko/ucu2021cv/raw/main/lectures/lecture1_intro.pdf)
   - Practice
     - [intro to pytorch](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a1_pytorch.ipynb)
     
