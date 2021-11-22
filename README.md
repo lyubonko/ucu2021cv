@@ -21,5 +21,4 @@ materials for course "Deep Learning for Computer Vision"
 
 ## Homework description
 
-[homework](https://github.com/lyubonko/ucu2021cv/raw/main
-/lectures/HOMEWORK.pdf)
+[homework](https://github.com/lyubonko/ucu2021cv/raw/main/lectures/HOMEWORK.pdf)
