@@ -15,7 +15,10 @@ materials for course "Deep Learning for Computer Vision"
 2.  **CNNs in depth**
 
   - Lecture
-    -  Slides [UPDATE LINK]
+    - [slides](https://github.com/lyubonko/ucu2021cv/raw/master/lectures/lecture2_cnn.pdf)
   - Practice  
     - [simple nets](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a2_simple_network.ipynb)     
-    - [classification](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a3_cifar10.ipynb)
+
+## Homework description
+
+[homework](https://github.com/lyubonko/ucu2021cv/raw/master/lectures/HOMEWORK.pdf)
