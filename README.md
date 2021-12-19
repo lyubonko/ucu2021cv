@@ -19,12 +19,17 @@ materials for course "Deep Learning for Computer Vision"
   - Practice  
     - [simple nets](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a2_simple_network.ipynb)     
 
-2.  **Attention**
+3.  **Attention**
 
   - Lecture
-    - TO BE UPDATED
+    - [slides](https://github.com/lyubonko/ucu2021cv/raw/main/lectures/lecture3_attention.pdf)
   - Practice  
     - [classification](https://colab.research.google.com/github/lyubonko/ucu2021cv/blob/master/assignments/a3_cifar10.ipynb) 
+
+4.  **Object Detection**
+
+  - Lecture
+    - [slides](https://github.com/lyubonko/ucu2021cv/raw/main/lectures/lecture4_detection.pdf)
 
 ## Homework description
 
